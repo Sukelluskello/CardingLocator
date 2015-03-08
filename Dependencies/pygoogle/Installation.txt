@@ -1,0 +1,5 @@
+Installation
+
+svn checkout http://pygoogle.googlecode.com/svn/trunk/ pygoogle-read-only
+python setup.py build
+sudo python setup.py install
